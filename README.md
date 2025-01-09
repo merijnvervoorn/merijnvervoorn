@@ -61,6 +61,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/github.svg" alt="Git" height="35" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/python.svg" alt="Python" height="35" /></a> 
 <a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/virtualbox.svg" alt="VirtualBox" height="35" /></a> 
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="35" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/css.svg" alt="CSS3" height="35" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/latex.svg" alt="LaTeX" height="35" /></a>
 <a href="https://tailscale.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/tailscale.svg" alt="Tailscale" height="35" /></a> 
