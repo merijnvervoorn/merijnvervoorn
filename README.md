@@ -75,8 +75,12 @@ This passion for new challenges is also visible in the rest of my life, in which
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Merijn added &#39;Enchiridion&#39;](https://www.goodreads.com/review/show/7143128376)
+- [Merijn started reading &#39;How To Be a Stoic&#39;](https://www.goodreads.com/review/show/5815165026)
+- [Merijn added &#39;En dan nog iets&#39;](https://www.goodreads.com/review/show/7095435443)
+- [Merijn marked as to-read-from-the-shelves &#39;To Kill a Mockingbird&#39;](https://www.goodreads.com/review/show/5480526040)
+- [Merijn marked as to-read-from-the-shelves &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
 <!-- BLOG-POST-LIST:END -->
 
 </td><td valign="top" width="50%">
