@@ -85,6 +85,8 @@ This passion for new challenges is also visible in the rest of my life, in which
 - [Merijn marked as to-read-from-the-shelves &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
 <!-- BLOG-POST-LIST:END -->
 
+*Added means Read
+
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merijnvervoorn&hide_border=true&layout=compact" align="left" style="width: 100%" />
