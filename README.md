@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=logmein&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@merijnvervoorn" target="_blank">
+<a href="https://www.youtube.com/@merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
