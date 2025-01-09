@@ -1,4 +1,4 @@
-## Hey 👋, I'm Merijn Vervoorn!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
   
 <a href="https://merijnvervoorn.com" target="_blank">
 <img src=https://img.shields.io/badge/personal-%2324292e.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
@@ -16,7 +16,7 @@
 
 
 
-### Welcome to my ~TED Talk~ Github profile  
+### 📌 Welcome to my ~TED Talk~ Github profile  
 I'm a Dutch computational social scientist. I help companies with digital and data-driven solutions for various societal problems, constantly exploring new challenges and growth opportunities.
 
 This passion for new challenges is also visible in the rest of my life, in which I like to help people. I also love making videos and podcasts, and I like to learn new things by watching YouTube videos about interesting topics. I also like to read (yes, in a real book). The books I read are a variation of non-fiction (Digital minimalism, Atomic Habits) and fiction (Ready Player One, Tomorrow, and Tomorrow, and Tomorrow). In my spare time I also run.
@@ -26,7 +26,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 <br/>  
 
 
-## Rapidfire  
+## 🔥 Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working together with [RoadDanger](https://github.com/digitaldutch/roaddanger.org)  
@@ -53,7 +53,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 <br/>  
 
 
-## Languages and Tools  
+## 🖥️ Languages and Tools  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -74,7 +74,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 <br/>  
 
 
-## Stats  
+## 📈 Stats  
 <table><tr><td valign="top" width="50%">
   
 ### [What am I reading?](https://www.goodreads.com/merijnvervoorn)
@@ -101,12 +101,5 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
