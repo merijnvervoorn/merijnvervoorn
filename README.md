@@ -68,11 +68,11 @@ This passion for new challenges is also visible in the rest of my life, in which
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/arduino.svg" alt="Arduino" height="35" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/wordpress.svg" alt="WordPress" height="35" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" height="35" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=86609&format=png&color=000000" alt="Photoshop" height="45" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=2G6COzQd7R2G&format=png&color=000000" alt="Premiere Pro" height="45" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=10892&format=png&color=000000" alt="Illustrator" height="45" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=7Yo99dpWqrdn&format=png&color=000000" alt="After Effects" height="45" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=000000" alt="Lightroom" height="45" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=86609&format=png&color=000000" alt="Photoshop" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=2G6COzQd7R2G&format=png&color=000000" alt="Premiere Pro" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=10892&format=png&color=000000" alt="Illustrator" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=7Yo99dpWqrdn&format=png&color=000000" alt="After Effects" height="40" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=000000" alt="Lightroom" height="40" /></a>  
 </div>  
 
 <br/>  
