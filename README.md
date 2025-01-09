@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://merijnvervoorn.com)
   
 <a href="https://merijnvervoorn.com" target="_blank">
 <img src=https://img.shields.io/badge/personal-%2324292e.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
