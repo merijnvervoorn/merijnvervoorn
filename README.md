@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" align="center" style="width: 25%" /> 
+<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" style="width: 25%" /> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6600&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
 
