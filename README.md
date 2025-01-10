@@ -26,8 +26,8 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 
 ## 🔥 Rapidfire  
-<img align="right" src="https://media.giphy.com/media/emBNbuHZZMrDmxm2qj/giphy.gif" align="center" style="width: 100%" />
-<br><br>
+
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working together with [RoadDanger](https://github.com/digitaldutch/roaddanger.org)  
   
@@ -40,7 +40,13 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 - ⚡ Fun fact: people that don't code think I'm a coder, but people that do code know I stay with the basics  
 
+</td><td valign="top" width="50%">
+<div align="center">
+<img src="https://media.giphy.com/media/emBNbuHZZMrDmxm2qj/giphy.gif" align="center" style="width: 100%" />
+</div>  
 
+
+</td></tr></table>  
 <br/>  
 <br><br>
 
