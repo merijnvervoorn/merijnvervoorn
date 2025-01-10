@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" style="width: 25%" /> 
+<table><tr><td valign="top" width="50%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6600&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
 
@@ -14,6 +14,12 @@
 <a href="https://www.youtube.com/@merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+
+</td><td valign="top" width="50%">
+
+<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" style="width: 25%" /> 
+
+</td></tr></table>  
 
 ### 📌 Welcome to my ~TED Talk~ Github profile  
 I'm a Dutch computational social scientist. I help companies with digital and data-driven solutions for various societal problems, constantly exploring new challenges and growth opportunities.
