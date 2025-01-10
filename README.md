@@ -55,7 +55,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 ## 🖥️ Languages and Tools  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/ff6600/white" alt="Linux" height="35" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/ff6600" alt="Linux" height="35" /></a>  
 <a href="https://www.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=33540&format=png&color=ff6600" alt="Microsoft/365" height="35" /></a>  
 <a href="https://www.apple.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apple/ff6600" alt="Apple/MacOS" height="35" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github/ff6600" alt="Git" height="35" /></a>  
