@@ -1,3 +1,5 @@
+<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" align="center" style="width: 35%" /> 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6600&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
 
 <a href="https://merijnvervoorn.com" target="_blank">
@@ -12,7 +14,8 @@
 <a href="https://www.youtube.com/@merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
+
+
 
 
 
@@ -27,7 +30,11 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 
 ## 🔥 Rapidfire  
-<table><tr><td valign="top" width="50%">
+
+<img align="right" src="https://media.giphy.com/media/emBNbuHZZMrDmxm2qj/giphy.gif" align="center" style="width: 100%" />
+
+
+<br><br>
 
 - 🔭 I’m currently working together with [RoadDanger](https://github.com/digitaldutch/roaddanger.org)  
   
@@ -41,16 +48,11 @@ This passion for new challenges is also visible in the rest of my life, in which
 - ⚡ Fun fact: people that don't code think I'm a coder, but people that do code know I stay with the basics  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/emBNbuHZZMrDmxm2qj/giphy.gif" align="center" style="width: 100%" />
-</div>  
 
 
-</td></tr></table>  
 
 <br/>  
+<br><br>
 
 
 ## 🖥️ Languages and Tools  
