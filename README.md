@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://merijnvervoorn.com)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6600&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
+
 <a href="https://merijnvervoorn.com" target="_blank">
-<img src=https://img.shields.io/badge/personal-%2324292e.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/personal-ff6600.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/merijnvervoorn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-3e6990.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=logmein&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -55,7 +55,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 ## 🖥️ Languages and Tools  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="35" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/black/white" alt="Linux" height="35" /></a>  
 <a href="https://www.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=33540&format=png&color=000000" alt="Microsoft/365" height="35" /></a>  
 <a href="https://www.apple.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/apple.svg" alt="Apple/MacOS" height="35" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/github.svg" alt="Git" height="35" /></a>  
