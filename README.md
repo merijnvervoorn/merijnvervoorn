@@ -17,7 +17,7 @@
 
 </td><td valign="top" width="25%">
 
-<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" style="width: 25%" /> 
+<img align="right" src="https://media.tenor.com/FyxMRZWRycAAAAAC/penguin.gif" style="width: 50%" /> 
 
 </td></tr></table>  
 
