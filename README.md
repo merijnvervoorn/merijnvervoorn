@@ -89,7 +89,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 ### [What am I reading?](https://www.goodreads.com/merijnvervoorn)
   
 <!-- BLOG-POST-LIST:START -->
-- [Merijn started reading &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
+- [Merijn added &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
 - [Merijn added &#39;Enchiridion&#39;](https://www.goodreads.com/review/show/7143128376)
 - [Merijn started reading &#39;How To Be a Stoic&#39;](https://www.goodreads.com/review/show/5815165026)
 - [Merijn added &#39;En dan nog iets&#39;](https://www.goodreads.com/review/show/7095435443)
