@@ -89,13 +89,13 @@ This passion for new challenges is also visible in the rest of my life, in which
 ### [What am I reading?](https://www.goodreads.com/merijnvervoorn)
   
 <!-- BLOG-POST-LIST:START -->
+- [Merijn started reading &#39;Life of Pi&#39;](https://www.goodreads.com/review/show/4460827619)
 - [Merijn marked as to-read-from-the-shelves &#39;Wij waren, ik ben. Weg uit Ruinerwold&#39;](https://www.goodreads.com/review/show/7251586552)
 - [Merijn marked as to-read-from-the-shelves &#39;De Hongerspelen&#39;](https://www.goodreads.com/review/show/7251581797)
 - [Merijn
         has challenged himself
       to read 12 books in 2025.](https://www.goodreads.com/user/show/140898846-merijn-vervoorn)
 - [Merijn added &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
-- [Merijn added &#39;Enchiridion&#39;](https://www.goodreads.com/review/show/7143128376)
 <!-- BLOG-POST-LIST:END -->
 
 *Added means Read
