@@ -35,7 +35,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working together with [RoadDanger](https://github.com/digitaldutch/roaddanger.org)  
+- 🔭 I’m currently working on applying responsible AI to reduce inequality
   
 
 - 🎓 I’m currently studying Computational Social Science at the University of Amsterdam  
