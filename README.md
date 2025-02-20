@@ -89,11 +89,11 @@ This passion for new challenges is also visible in the rest of my life, in which
 ### [What am I reading?](https://www.goodreads.com/merijnvervoorn)
   
 <!-- BLOG-POST-LIST:START -->
-- [Merijn started reading &#39;How to Kill Your Family&#39;](https://www.goodreads.com/review/show/4421676714)
+- [Merijn added &#39;En dan nog iets&#39;](https://www.goodreads.com/review/show/7095435443)
+- [Merijn added &#39;Red Queen&#39;](https://www.goodreads.com/review/show/7096891441)
+- [Merijn added &#39;Alice&#39;](https://www.goodreads.com/review/show/6936371297)
 - [Merijn added &#39;Life of Pi&#39;](https://www.goodreads.com/review/show/4460827619)
-- [Merijn wants to read &#39;The Space Between Worlds&#39;](https://www.goodreads.com/review/show/7268850379)
-- [Merijn started reading &#39;Life of Pi&#39;](https://www.goodreads.com/review/show/4460827619)
-- [Merijn marked as to-read-from-the-shelves &#39;Wij waren, ik ben. Weg uit Ruinerwold&#39;](https://www.goodreads.com/review/show/7251586552)
+- [Merijn added &#39;Peter Pan&#39;](https://www.goodreads.com/review/show/4597662100)
 <!-- BLOG-POST-LIST:END -->
 
 *Added means Read
