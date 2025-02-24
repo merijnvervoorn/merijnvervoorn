@@ -1,12 +1,12 @@
 <table><tr><td valign="top" width="75%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=FF6600&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&pause=1000&color=F28907&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Merijn)](https://git.io/typing-svg)
 
 <a href="https://merijnvervoorn.com" target="_blank">
-<img src=https://img.shields.io/badge/personal-ff6600.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/personal-F28907.svg?&style=for-the-badge&logo=htmx&logoColor=white alt=merijnvervoorn.com style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/merijnvervoorn" target="_blank">
-<img src=https://img.shields.io/badge/github-3e6990.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-2d284d.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/merijnvervoorn" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=logmein&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -35,7 +35,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on applying responsible AI to reduce inequality
+- 🔭 I’m currently working with DemocratieMonitor on using AI to measure democracy
   
 
 - 🎓 I’m currently studying Computational Social Science at the University of Amsterdam  
@@ -59,25 +59,25 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 ## 🖥️ Languages and Tools  
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/ff6600" alt="Linux" height="35" /></a>  
-<a href="https://www.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=33540&format=png&color=ff6600" alt="Microsoft/365" height="35" /></a>  
-<a href="https://www.apple.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apple/ff6600" alt="Apple/MacOS" height="35" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github/ff6600" alt="Git" height="35" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/ff6600" alt="Python" height="35" /></a> 
-<a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/virtualbox/ff6600" alt="VirtualBox" height="35" /></a> 
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/ff6600" alt="HTML5" height="35" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/ff6600" alt="CSS3" height="35" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/latex/ff6600" alt="LaTeX" height="35" /></a>
-<a href="https://tailscale.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailscale/ff6600" alt="Tailscale" height="35" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/ff6600" alt="Bash" height="35" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/arduino/ff6600" alt="Arduino" height="35" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/wordpress/ff6600" alt="WordPress" height="35" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mysql/ff6600" alt="MySQL" height="35" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=86609&format=png&color=ff6600" alt="Photoshop" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=2G6COzQd7R2G&format=png&color=ff6600" alt="Premiere Pro" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=10892&format=png&color=ff6600" alt="Illustrator" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=7Yo99dpWqrdn&format=png&color=ff6600" alt="After Effects" height="40" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=ff6600" alt="Lightroom" height="40" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/F28907" alt="Linux" height="35" /></a>  
+<a href="https://www.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=33540&format=png&color=F28907" alt="Microsoft/365" height="35" /></a>  
+<a href="https://www.apple.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apple/F28907" alt="Apple/MacOS" height="35" /></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github/F28907" alt="Git" height="35" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/F28907" alt="Python" height="35" /></a> 
+<a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/virtualbox/F28907" alt="VirtualBox" height="35" /></a> 
+<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/F28907" alt="HTML5" height="35" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/F28907" alt="CSS3" height="35" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/latex/F28907" alt="LaTeX" height="35" /></a>
+<a href="https://tailscale.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailscale/F28907" alt="Tailscale" height="35" /></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/F28907" alt="Bash" height="35" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/arduino/F28907" alt="Arduino" height="35" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/wordpress/F28907" alt="WordPress" height="35" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mysql/F28907" alt="MySQL" height="35" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=86609&format=png&color=F28907" alt="Photoshop" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=2G6COzQd7R2G&format=png&color=F28907" alt="Premiere Pro" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=10892&format=png&color=F28907" alt="Illustrator" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=7Yo99dpWqrdn&format=png&color=F28907" alt="After Effects" height="40" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=F28907" alt="Lightroom" height="40" /></a>  
 </div>  
 
 <br/>  
