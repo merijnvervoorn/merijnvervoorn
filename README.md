@@ -86,17 +86,7 @@ This passion for new challenges is also visible in the rest of my life, in which
 ## 📈 Stats  
 <table><tr><td valign="top" width="50%">
   
-### [What am I reading?](https://www.goodreads.com/merijnvervoorn)
-  
-<!-- BLOG-POST-LIST:START -->
-- [Merijn wants to read &#39;De verwarde cavia&#39;](https://www.goodreads.com/review/show/7365001678)
-- [Merijn wants to read &#39;The Ministry of Time&#39;](https://www.goodreads.com/review/show/7364968933)
-- [Merijn wants to read &#39;A Monk&#39;s Guide to a Clean House and Mind&#39;](https://www.goodreads.com/review/show/7364947740)
-- [Merijn wants to read &#39;Thinking, Fast and Slow&#39;](https://www.goodreads.com/review/show/7364943539)
-- [Merijn wants to read &#39;Reimagining Capitalism in a World on Fire&#39;](https://www.goodreads.com/review/show/7364939261)
-<!-- BLOG-POST-LIST:END -->
 
-*Added means Read
 
 </td><td valign="top" width="50%">
 
