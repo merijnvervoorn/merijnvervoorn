@@ -49,26 +49,15 @@ This passion for new challenges is also visible in the rest of my life, in which
 <br><br>
 
 
-## 🖥️ Languages and Tools  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/linux/F28907" alt="Linux" height="35" /></a>  
-<a href="https://www.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=33540&format=png&color=F28907" alt="Microsoft/365" height="35" /></a>  
-<a href="https://www.apple.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/apple/F28907" alt="Apple/MacOS" height="35" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/github/F28907" alt="Git" height="35" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/python/F28907" alt="Python" height="35" /></a> 
-<a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/virtualbox/F28907" alt="VirtualBox" height="35" /></a> 
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/html5/F28907" alt="HTML5" height="35" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/css/F28907" alt="CSS3" height="35" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/latex/F28907" alt="LaTeX" height="35" /></a>
-<a href="https://tailscale.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/tailscale/F28907" alt="Tailscale" height="35" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/F28907" alt="Bash" height="35" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/arduino/F28907" alt="Arduino" height="35" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/wordpress/F28907" alt="WordPress" height="35" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/mysql/F28907" alt="MySQL" height="35" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=86609&format=png&color=F28907" alt="Photoshop" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=2G6COzQd7R2G&format=png&color=F28907" alt="Premiere Pro" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=10892&format=png&color=F28907" alt="Illustrator" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=7Yo99dpWqrdn&format=png&color=F28907" alt="After Effects" height="40" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=F28907" alt="Lightroom" height="40" /></a>  
-</div>  
+## 🖥️ Languages & Tools
+
+| 🧰 Operating Systems | 💻 Languages & Markup | 🛠️ Dev Tools & Env | 🌍 Web & CMS | 🎬 Adobe Suite |
+|----------------------|------------------------|---------------------|--------------|----------------|
+| 🐧 Linux             | 🐍 Python              | 🧑‍💻 Git & GitHub     | 📰 WordPress | 🖌️ Photoshop |
+| 🪟 Windows / 365     | 🕸️ HTML5               | 🖥️ Bash             |              | 🌄 Lightroom |
+| 🍎 macOS             | 🎨 CSS3                | 📦 VirtualBox       |              | ✒️ Illustrator |
+|                      | 🧾 LaTeX               | 🌐 Tailscale        |              | 🎞️ Premiere Pro |
+|                      | 💾 MySQL               |                     |              | ✨ After Effects |
+|                      | 🔌 Arduino             |                     |              |                  |
+
 
