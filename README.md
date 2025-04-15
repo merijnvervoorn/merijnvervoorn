@@ -27,16 +27,16 @@ This passion for new challenges is also visible in the rest of my life, in which
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working with DemocratieMonitor on using AI to measure democracy
+- 🔭 I’m currently working on using AI to measure democracy and predict coalitions in the Tweede Kamer
   
 
 - 🎓 I’m currently studying Computational Social Science at the University of Amsterdam  
   
 
-- ❓ Ask me about my future prospects (eventually I might get an answer)  
+- ❓ Ask me about my future prospects (eventually I might get an answer)
   
 
-- ⚡ Fun fact: people that don't code think I'm a coder, but people that do code know I stay with the basics  
+- ⚡ Fun fact: I run for fun AND read books
 
 </td><td valign="top" width="50%">
 <div align="center">
@@ -72,11 +72,3 @@ This passion for new challenges is also visible in the rest of my life, in which
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 0px" src="https://img.icons8.com/?size=100&id=16396&format=png&color=F28907" alt="Lightroom" height="40" /></a>  
 </div>  
 
-<br/>  
-
-  
-
-<br/>  
-
----
-Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
