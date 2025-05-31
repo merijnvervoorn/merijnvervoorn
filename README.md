@@ -55,9 +55,17 @@ This passion for new challenges is also visible in the rest of my life, in which
 |----------------------|------------------------|---------------------|--------------|----------------|
 | 🐧 Linux             | 🐍 Python              | 🧑‍💻 Git & GitHub     | 📰 WordPress | 🖌️ Photoshop |
 | 🪟 Windows / 365     | 🕸️ HTML5               | 🖥️ Bash             |              | 🌄 Lightroom |
-| 🍎 macOS             | 🎨 CSS3                | 📦 VirtualBox       |              | ✒️ Illustrator |
+| 🍎 MacOS             | 🎨 CSS3                | 📦 VirtualBox       |              | ✒️ Illustrator |
 |                      | 🧾 LaTeX               | 🌐 Tailscale        |              | 🎞️ Premiere Pro |
 |                      | 💾 MySQL               |                     |              | ✨ After Effects |
 |                      | 🔌 Arduino             |                     |              |                  |
 
 
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=merijnvervoorn&hide_progress=true&theme=great-gatsby">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merijnvervoorn&hide_progress=true&theme=great-gatsby" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=merijnvervoorn&theme=great-gatsby&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=merijnvervoorn&theme=great-gatsby&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" />
+</a>
